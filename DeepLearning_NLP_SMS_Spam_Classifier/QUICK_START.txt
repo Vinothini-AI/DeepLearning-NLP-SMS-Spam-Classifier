@@ -1,0 +1,22 @@
+# QUICK START
+
+1. Open this folder in VS Code.
+2. Open Terminal.
+3. Run:
+   python -m venv .venv
+   .venv\Scripts\activate
+   pip install -r requirements.txt
+4. Run:
+   python -m notebook
+5. Open:
+   notebooks/SMS_Spam_DeepLearning_PyTorch.ipynb
+6. Run every cell from top to bottom.
+7. Take screenshots of:
+   - dataset preview
+   - class distribution
+   - model architecture
+   - training curves
+   - test metrics
+   - confusion matrix
+   - sample inference with confidence
+8. Push the whole project to GitHub.
